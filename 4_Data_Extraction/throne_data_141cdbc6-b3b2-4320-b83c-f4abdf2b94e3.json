@@ -1,0 +1,317 @@
+[
+  {
+    "id": 2,
+    "count": 3,
+    "description": "",
+    "link": "https://maguen-cyber.fr/category/design/",
+    "name": "Design (Demo)",
+    "slug": "design",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories/2",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/posts?categories=2"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 3,
+    "description": "",
+    "link": "https://maguen-cyber.fr/category/development/",
+    "name": "Development (Demo)",
+    "slug": "development",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories/3",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/posts?categories=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 3,
+    "description": "",
+    "link": "https://maguen-cyber.fr/category/interface/",
+    "name": "Interface (Demo)",
+    "slug": "interface",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories/4",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/posts?categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 5,
+    "description": "",
+    "link": "https://maguen-cyber.fr/category/marketing/",
+    "name": "Marketing (Demo)",
+    "slug": "marketing",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories/5",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/posts?categories=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 1,
+    "description": "",
+    "link": "https://maguen-cyber.fr/category/non-classe/",
+    "name": "Non classé",
+    "slug": "non-classe",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 7,
+    "description": "",
+    "link": "https://maguen-cyber.fr/category/strategy/",
+    "name": "Strategy (Demo)",
+    "slug": "strategy",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 1,
+    "description": "",
+    "link": "https://maguen-cyber.fr/category/uncategorized/",
+    "name": "Uncategorized (Demo)",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories/7",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://maguen-cyber.fr/wp-json/wp/v2/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

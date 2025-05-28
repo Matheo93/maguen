@@ -1,0 +1,5 @@
+[31;1mParserError: [0m/home/ubuntu/throne_wizard.ps1:32[0m
+[31;1m[0m[36;1mLine |[0m
+[31;1m[0m[36;1m[36;1m  32 | [0m         "[36;1m$([0mwhoami)"[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m     | [31;1m          ~~[0m
+[31;1m[0m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mUnexpected token '$(' in expression or statement.[0m

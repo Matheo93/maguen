@@ -1,0 +1,393 @@
+🧪 THRONE ALCHEMIST - Transmutation des Attaques
+
+🧬 Transmutation de: <script>alert(1)</script>
+  🔮 Original: <script>alert(1)</script>...
+  🔮 Unicode: \u003c\u0073\u0063\u0072\u0069...
+  🔮 URL: %3cscript%3ealert(1)%3c%2fscri...
+  🔮 Base64: PHNjcmlwdD5hbGVydCgxKTwvc2NyaX...
+  🔮 HTML: &lt;script&gt;alert(1)&lt;/scr...
+  🔮 Hex: 3C7363726970743E616C6572742831...
+  🔮 DoubleURL: %253cscript%253ealert(1)%253c%...
+
+🧬 Transmutation de: ' OR 1=1--
+  🔮 Original: ' OR 1=1--...
+  🔮 Unicode: \u0027\u0020\u004f\u0052\u0020...
+  🔮 URL: %27+OR+1%3d1--...
+  🔮 Base64: JyBPUiAxPTEtLQ==...
+  🔮 HTML: &#39; OR 1=1--...
+  🔮 Hex: 27204F5220313D312D2D...
+  🔮 DoubleURL: %2527%2bOR%2b1%253d1--...
+
+🧬 Transmutation de: ../../../etc/passwd
+  🔮 Original: ../../../etc/passwd...
+  🔮 Unicode: \u002e\u002e\u002f\u002e\u002e...
+  🔮 URL: ..%2f..%2f..%2fetc%2fpasswd...
+  🔮 Base64: Li4vLi4vLi4vZXRjL3Bhc3N3ZA==...
+  🔮 HTML: ../../../etc/passwd...
+  🔮 Hex: 2E2E2F2E2E2F2E2E2F6574632F7061...
+  🔮 DoubleURL: ..%252f..%252f..%252fetc%252fp...
+
+🧬 Transmutation de: {{7*7}}
+  🔮 Original: {{7*7}}...
+  🔮 Unicode: \u007b\u007b\u0037\u002a\u0037...
+  🔮 URL: %7b%7b7*7%7d%7d...
+  🔮 Base64: e3s3Kjd9fQ==...
+  🔮 HTML: {{7*7}}...
+  🔮 Hex: 7B7B372A377D7D...
+  🔮 DoubleURL: %257b%257b7*7%257d%257d...
+
+🧬 Transmutation de: 
+  🔮 Original: ...
+  🔮 Unicode: ...
+  🔮 URL: ...
+  🔮 Base64: ...
+  🔮 HTML: ...
+  🔮 Hex: ...
+  🔮 DoubleURL: ...
+
+🧪 Test des Headers Alchimiques...
+  ✨ X-Originating-IP: 127.0.0.1
+
+[32;1mStatusCode        : [0m200
+[32;1mStatusDescription : [0mOK
+[32;1mContent           : [0m<!DOCTYPE html>
+                    	<html lang="fr-FR" xmlns:og="https://ogp.me/ns#" xmlns:fb=
+                    "https://ogp.me/ns/fb#">
+                    	<head>
+                    	<meta http-equiv="Content-Type" content="text/html; charse
+                    t=UTF-8" />
+                    	<title>Se connecter …
+[32;1mRawContent        : [0mHTTP/1.1 200 OK
+                    Date: Wed, 28 May 2025 20:12:12 GMT
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    Server: OVHcloud
+                    X-Powered-By: PHP/8.2
+                    Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path
+                    …
+[32;1mHeaders           : [0m{[Date, System.String[]], [Transfer-Encoding, System.String
+                    []], [Connection, System.String[]], [Server, System.String[
+                    ]]…}
+[32;1mImages            : [0m{}
+[32;1mInputFields       : [0m{@{outerHTML=<input type="text" name="log" id="user_login" 
+                    class="input" value="" size="20" autocapitalize="off" autoc
+                    omplete="username" required="required" />; tagName=INPUT; t
+                    ype=text; name=log; id=user_login; class=input; value=; siz
+                    e=20; autocapitalize=off; autocomplete=username; required=r
+                    equired}, @{outerHTML=<input type="password" name="pwd" id=
+                    "user_pass" class="input password-input" value="" size="20"
+                     autocomplete="current-password" spellcheck="false" require
+                    d="required" />; tagName=INPUT; type=password; name=pwd; id
+                    =user_pass; class=input password-input; value=; size=20; au
+                    tocomplete=current-password; spellcheck=false; required=req
+                    uired}, @{outerHTML=<input name="rememberme" type="checkbox
+                    " id="rememberme" value="forever"  />; tagName=INPUT; name=
+                    rememberme; type=checkbox; id=rememberme; value=forever}, @
+                    {outerHTML=<input type="submit" name="wp-submit" id="wp-sub
+                    mit" class="button button-primary button-large" value="Se c
+                    onnecter" />; tagName=INPUT; type=submit; name=wp-submit; i
+                    d=wp-submit; class=button button-primary button-large; valu
+                    e=Se connecter}…}
+[32;1mLinks             : [0m{@{outerHTML=<a href="https://maguen-cyber.fr">https://magu
+                    en-cyber.fr</a>; tagName=A; href=https://maguen-cyber.fr}, 
+                    @{outerHTML=<a class="wp-login-lost-password" href="https:/
+                    /maguen-cyber.fr/wp-login.php?action=lostpassword">Mot de p
+                    asse oublié ?</a>; tagName=A; class=wp-login-lost-password;
+                     href=https://maguen-cyber.fr/wp-login.php?action=lostpassw
+                    ord}, @{outerHTML=<a href="https://maguen-cyber.fr/">&larr;
+                     Aller sur Maguen Cyber</a>; tagName=A; href=https://maguen
+                    -cyber.fr/}, @{outerHTML=<a class="privacy-policy-link" hre
+                    f="https://maguen-cyber.fr/politique-de-confidentialite/" r
+                    el="privacy-policy">Politique de Confidentialité</a>; tagNa
+                    me=A; class=privacy-policy-link; href=https://maguen-cyber.
+                    fr/politique-de-confidentialite/; rel=privacy-policy}}
+[32;1mRawContentLength  : [0m46499
+[32;1mRelationLink      : [0m{}
+
+  ✨ X-Remote-IP: 127.0.0.1
+[32;1mStatusCode        : [0m200
+[32;1mStatusDescription : [0mOK
+[32;1mContent           : [0m<!DOCTYPE html>
+                    	<html lang="fr-FR" xmlns:og="https://ogp.me/ns#" xmlns:fb=
+                    "https://ogp.me/ns/fb#">
+                    	<head>
+                    	<meta http-equiv="Content-Type" content="text/html; charse
+                    t=UTF-8" />
+                    	<title>Se connecter …
+[32;1mRawContent        : [0mHTTP/1.1 200 OK
+                    Date: Wed, 28 May 2025 20:12:15 GMT
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    Server: OVHcloud
+                    X-Powered-By: PHP/8.2
+                    Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path
+                    …
+[32;1mHeaders           : [0m{[Date, System.String[]], [Transfer-Encoding, System.String
+                    []], [Connection, System.String[]], [Server, System.String[
+                    ]]…}
+[32;1mImages            : [0m{}
+[32;1mInputFields       : [0m{@{outerHTML=<input type="text" name="log" id="user_login" 
+                    class="input" value="" size="20" autocapitalize="off" autoc
+                    omplete="username" required="required" />; tagName=INPUT; t
+                    ype=text; name=log; id=user_login; class=input; value=; siz
+                    e=20; autocapitalize=off; autocomplete=username; required=r
+                    equired}, @{outerHTML=<input type="password" name="pwd" id=
+                    "user_pass" class="input password-input" value="" size="20"
+                     autocomplete="current-password" spellcheck="false" require
+                    d="required" />; tagName=INPUT; type=password; name=pwd; id
+                    =user_pass; class=input password-input; value=; size=20; au
+                    tocomplete=current-password; spellcheck=false; required=req
+                    uired}, @{outerHTML=<input name="rememberme" type="checkbox
+                    " id="rememberme" value="forever"  />; tagName=INPUT; name=
+                    rememberme; type=checkbox; id=rememberme; value=forever}, @
+                    {outerHTML=<input type="submit" name="wp-submit" id="wp-sub
+                    mit" class="button button-primary button-large" value="Se c
+                    onnecter" />; tagName=INPUT; type=submit; name=wp-submit; i
+                    d=wp-submit; class=button button-primary button-large; valu
+                    e=Se connecter}…}
+[32;1mLinks             : [0m{@{outerHTML=<a href="https://maguen-cyber.fr">https://magu
+                    en-cyber.fr</a>; tagName=A; href=https://maguen-cyber.fr}, 
+                    @{outerHTML=<a class="wp-login-lost-password" href="https:/
+                    /maguen-cyber.fr/wp-login.php?action=lostpassword">Mot de p
+                    asse oublié ?</a>; tagName=A; class=wp-login-lost-password;
+                     href=https://maguen-cyber.fr/wp-login.php?action=lostpassw
+                    ord}, @{outerHTML=<a href="https://maguen-cyber.fr/">&larr;
+                     Aller sur Maguen Cyber</a>; tagName=A; href=https://maguen
+                    -cyber.fr/}, @{outerHTML=<a class="privacy-policy-link" hre
+                    f="https://maguen-cyber.fr/politique-de-confidentialite/" r
+                    el="privacy-policy">Politique de Confidentialité</a>; tagNa
+                    me=A; class=privacy-policy-link; href=https://maguen-cyber.
+                    fr/politique-de-confidentialite/; rel=privacy-policy}}
+[32;1mRawContentLength  : [0m46499
+[32;1mRelationLink      : [0m{}
+
+  ✨ X-Real-IP: 127.0.0.1
+[32;1mStatusCode        : [0m200
+[32;1mStatusDescription : [0mOK
+[32;1mContent           : [0m<!DOCTYPE html>
+                    	<html lang="fr-FR" xmlns:og="https://ogp.me/ns#" xmlns:fb=
+                    "https://ogp.me/ns/fb#">
+                    	<head>
+                    	<meta http-equiv="Content-Type" content="text/html; charse
+                    t=UTF-8" />
+                    	<title>Se connecter …
+[32;1mRawContent        : [0mHTTP/1.1 200 OK
+                    Date: Wed, 28 May 2025 20:12:17 GMT
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    Server: OVHcloud
+                    X-Powered-By: PHP/8.2
+                    Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path
+                    …
+[32;1mHeaders           : [0m{[Date, System.String[]], [Transfer-Encoding, System.String
+                    []], [Connection, System.String[]], [Server, System.String[
+                    ]]…}
+[32;1mImages            : [0m{}
+[32;1mInputFields       : [0m{@{outerHTML=<input type="text" name="log" id="user_login" 
+                    class="input" value="" size="20" autocapitalize="off" autoc
+                    omplete="username" required="required" />; tagName=INPUT; t
+                    ype=text; name=log; id=user_login; class=input; value=; siz
+                    e=20; autocapitalize=off; autocomplete=username; required=r
+                    equired}, @{outerHTML=<input type="password" name="pwd" id=
+                    "user_pass" class="input password-input" value="" size="20"
+                     autocomplete="current-password" spellcheck="false" require
+                    d="required" />; tagName=INPUT; type=password; name=pwd; id
+                    =user_pass; class=input password-input; value=; size=20; au
+                    tocomplete=current-password; spellcheck=false; required=req
+                    uired}, @{outerHTML=<input name="rememberme" type="checkbox
+                    " id="rememberme" value="forever"  />; tagName=INPUT; name=
+                    rememberme; type=checkbox; id=rememberme; value=forever}, @
+                    {outerHTML=<input type="submit" name="wp-submit" id="wp-sub
+                    mit" class="button button-primary button-large" value="Se c
+                    onnecter" />; tagName=INPUT; type=submit; name=wp-submit; i
+                    d=wp-submit; class=button button-primary button-large; valu
+                    e=Se connecter}…}
+[32;1mLinks             : [0m{@{outerHTML=<a href="https://maguen-cyber.fr">https://magu
+                    en-cyber.fr</a>; tagName=A; href=https://maguen-cyber.fr}, 
+                    @{outerHTML=<a class="wp-login-lost-password" href="https:/
+                    /maguen-cyber.fr/wp-login.php?action=lostpassword">Mot de p
+                    asse oublié ?</a>; tagName=A; class=wp-login-lost-password;
+                     href=https://maguen-cyber.fr/wp-login.php?action=lostpassw
+                    ord}, @{outerHTML=<a href="https://maguen-cyber.fr/">&larr;
+                     Aller sur Maguen Cyber</a>; tagName=A; href=https://maguen
+                    -cyber.fr/}, @{outerHTML=<a class="privacy-policy-link" hre
+                    f="https://maguen-cyber.fr/politique-de-confidentialite/" r
+                    el="privacy-policy">Politique de Confidentialité</a>; tagNa
+                    me=A; class=privacy-policy-link; href=https://maguen-cyber.
+                    fr/politique-de-confidentialite/; rel=privacy-policy}}
+[32;1mRawContentLength  : [0m46499
+[32;1mRelationLink      : [0m{}
+
+  ✨ X-Forwarded-Host: localhost
+[32;1mStatusCode        : [0m200
+[32;1mStatusDescription : [0mOK
+[32;1mContent           : [0m<!DOCTYPE html>
+                    	<html lang="fr-FR" xmlns:og="https://ogp.me/ns#" xmlns:fb=
+                    "https://ogp.me/ns/fb#">
+                    	<head>
+                    	<meta http-equiv="Content-Type" content="text/html; charse
+                    t=UTF-8" />
+                    	<title>Se connecter …
+[32;1mRawContent        : [0mHTTP/1.1 200 OK
+                    Date: Wed, 28 May 2025 20:12:20 GMT
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    Server: OVHcloud
+                    X-Powered-By: PHP/8.2
+                    Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path
+                    …
+[32;1mHeaders           : [0m{[Date, System.String[]], [Transfer-Encoding, System.String
+                    []], [Connection, System.String[]], [Server, System.String[
+                    ]]…}
+[32;1mImages            : [0m{}
+[32;1mInputFields       : [0m{@{outerHTML=<input type="text" name="log" id="user_login" 
+                    class="input" value="" size="20" autocapitalize="off" autoc
+                    omplete="username" required="required" />; tagName=INPUT; t
+                    ype=text; name=log; id=user_login; class=input; value=; siz
+                    e=20; autocapitalize=off; autocomplete=username; required=r
+                    equired}, @{outerHTML=<input type="password" name="pwd" id=
+                    "user_pass" class="input password-input" value="" size="20"
+                     autocomplete="current-password" spellcheck="false" require
+                    d="required" />; tagName=INPUT; type=password; name=pwd; id
+                    =user_pass; class=input password-input; value=; size=20; au
+                    tocomplete=current-password; spellcheck=false; required=req
+                    uired}, @{outerHTML=<input name="rememberme" type="checkbox
+                    " id="rememberme" value="forever"  />; tagName=INPUT; name=
+                    rememberme; type=checkbox; id=rememberme; value=forever}, @
+                    {outerHTML=<input type="submit" name="wp-submit" id="wp-sub
+                    mit" class="button button-primary button-large" value="Se c
+                    onnecter" />; tagName=INPUT; type=submit; name=wp-submit; i
+                    d=wp-submit; class=button button-primary button-large; valu
+                    e=Se connecter}…}
+[32;1mLinks             : [0m{@{outerHTML=<a href="https://maguen-cyber.fr">https://magu
+                    en-cyber.fr</a>; tagName=A; href=https://maguen-cyber.fr}, 
+                    @{outerHTML=<a class="wp-login-lost-password" href="https:/
+                    /maguen-cyber.fr/wp-login.php?action=lostpassword">Mot de p
+                    asse oublié ?</a>; tagName=A; class=wp-login-lost-password;
+                     href=https://maguen-cyber.fr/wp-login.php?action=lostpassw
+                    ord}, @{outerHTML=<a href="https://maguen-cyber.fr/">&larr;
+                     Aller sur Maguen Cyber</a>; tagName=A; href=https://maguen
+                    -cyber.fr/}, @{outerHTML=<a class="privacy-policy-link" hre
+                    f="https://maguen-cyber.fr/politique-de-confidentialite/" r
+                    el="privacy-policy">Politique de Confidentialité</a>; tagNa
+                    me=A; class=privacy-policy-link; href=https://maguen-cyber.
+                    fr/politique-de-confidentialite/; rel=privacy-policy}}
+[32;1mRawContentLength  : [0m46499
+[32;1mRelationLink      : [0m{}
+
+  ✨ X-Forwarded-For: 127.0.0.1
+[32;1mStatusCode        : [0m200
+[32;1mStatusDescription : [0mOK
+[32;1mContent           : [0m<!DOCTYPE html>
+                    	<html lang="fr-FR" xmlns:og="https://ogp.me/ns#" xmlns:fb=
+                    "https://ogp.me/ns/fb#">
+                    	<head>
+                    	<meta http-equiv="Content-Type" content="text/html; charse
+                    t=UTF-8" />
+                    	<title>Se connecter …
+[32;1mRawContent        : [0mHTTP/1.1 200 OK
+                    Date: Wed, 28 May 2025 20:12:23 GMT
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    Server: OVHcloud
+                    X-Powered-By: PHP/8.2
+                    Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path
+                    …
+[32;1mHeaders           : [0m{[Date, System.String[]], [Transfer-Encoding, System.String
+                    []], [Connection, System.String[]], [Server, System.String[
+                    ]]…}
+[32;1mImages            : [0m{}
+[32;1mInputFields       : [0m{@{outerHTML=<input type="text" name="log" id="user_login" 
+                    class="input" value="" size="20" autocapitalize="off" autoc
+                    omplete="username" required="required" />; tagName=INPUT; t
+                    ype=text; name=log; id=user_login; class=input; value=; siz
+                    e=20; autocapitalize=off; autocomplete=username; required=r
+                    equired}, @{outerHTML=<input type="password" name="pwd" id=
+                    "user_pass" class="input password-input" value="" size="20"
+                     autocomplete="current-password" spellcheck="false" require
+                    d="required" />; tagName=INPUT; type=password; name=pwd; id
+                    =user_pass; class=input password-input; value=; size=20; au
+                    tocomplete=current-password; spellcheck=false; required=req
+                    uired}, @{outerHTML=<input name="rememberme" type="checkbox
+                    " id="rememberme" value="forever"  />; tagName=INPUT; name=
+                    rememberme; type=checkbox; id=rememberme; value=forever}, @
+                    {outerHTML=<input type="submit" name="wp-submit" id="wp-sub
+                    mit" class="button button-primary button-large" value="Se c
+                    onnecter" />; tagName=INPUT; type=submit; name=wp-submit; i
+                    d=wp-submit; class=button button-primary button-large; valu
+                    e=Se connecter}…}
+[32;1mLinks             : [0m{@{outerHTML=<a href="https://maguen-cyber.fr">https://magu
+                    en-cyber.fr</a>; tagName=A; href=https://maguen-cyber.fr}, 
+                    @{outerHTML=<a class="wp-login-lost-password" href="https:/
+                    /maguen-cyber.fr/wp-login.php?action=lostpassword">Mot de p
+                    asse oublié ?</a>; tagName=A; class=wp-login-lost-password;
+                     href=https://maguen-cyber.fr/wp-login.php?action=lostpassw
+                    ord}, @{outerHTML=<a href="https://maguen-cyber.fr/">&larr;
+                     Aller sur Maguen Cyber</a>; tagName=A; href=https://maguen
+                    -cyber.fr/}, @{outerHTML=<a class="privacy-policy-link" hre
+                    f="https://maguen-cyber.fr/politique-de-confidentialite/" r
+                    el="privacy-policy">Politique de Confidentialité</a>; tagNa
+                    me=A; class=privacy-policy-link; href=https://maguen-cyber.
+                    fr/politique-de-confidentialite/; rel=privacy-policy}}
+[32;1mRawContentLength  : [0m46499
+[32;1mRelationLink      : [0m{}
+
+  ✨ X-Client-IP: 127.0.0.1
+[32;1mStatusCode        : [0m200
+[32;1mStatusDescription : [0mOK
+[32;1mContent           : [0m<!DOCTYPE html>
+                    	<html lang="fr-FR" xmlns:og="https://ogp.me/ns#" xmlns:fb=
+                    "https://ogp.me/ns/fb#">
+                    	<head>
+                    	<meta http-equiv="Content-Type" content="text/html; charse
+                    t=UTF-8" />
+                    	<title>Se connecter …
+[32;1mRawContent        : [0mHTTP/1.1 200 OK
+                    Date: Wed, 28 May 2025 20:12:26 GMT
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    Server: OVHcloud
+                    X-Powered-By: PHP/8.2
+                    Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path
+                    …
+[32;1mHeaders           : [0m{[Date, System.String[]], [Transfer-Encoding, System.String
+                    []], [Connection, System.String[]], [Server, System.String[
+                    ]]…}
+[32;1mImages            : [0m{}
+[32;1mInputFields       : [0m{@{outerHTML=<input type="text" name="log" id="user_login" 
+                    class="input" value="" size="20" autocapitalize="off" autoc
+                    omplete="username" required="required" />; tagName=INPUT; t
+                    ype=text; name=log; id=user_login; class=input; value=; siz
+                    e=20; autocapitalize=off; autocomplete=username; required=r
+                    equired}, @{outerHTML=<input type="password" name="pwd" id=
+                    "user_pass" class="input password-input" value="" size="20"
+                     autocomplete="current-password" spellcheck="false" require
+                    d="required" />; tagName=INPUT; type=password; name=pwd; id
+                    =user_pass; class=input password-input; value=; size=20; au
+                    tocomplete=current-password; spellcheck=false; required=req
+                    uired}, @{outerHTML=<input name="rememberme" type="checkbox
+                    " id="rememberme" value="forever"  />; tagName=INPUT; name=
+                    rememberme; type=checkbox; id=rememberme; value=forever}, @
+                    {outerHTML=<input type="submit" name="wp-submit" id="wp-sub
+                    mit" class="button button-primary button-large" value="Se c
+                    onnecter" />; tagName=INPUT; type=submit; name=wp-submit; i
+                    d=wp-submit; class=button button-primary button-large; valu
+                    e=Se connecter}…}
+[32;1mLinks             : [0m{@{outerHTML=<a href="https://maguen-cyber.fr">https://magu
+                    en-cyber.fr</a>; tagName=A; href=https://maguen-cyber.fr}, 
+                    @{outerHTML=<a class="wp-login-lost-password" href="https:/
+                    /maguen-cyber.fr/wp-login.php?action=lostpassword">Mot de p
+                    asse oublié ?</a>; tagName=A; class=wp-login-lost-password;
+                     href=https://maguen-cyber.fr/wp-login.php?action=lostpassw
+                    ord}, @{outerHTML=<a href="https://maguen-cyber.fr/">&larr;
+                     Aller sur Maguen Cyber</a>; tagName=A; href=https://maguen
+                    -cyber.fr/}, @{outerHTML=<a class="privacy-policy-link" hre
+                    f="https://maguen-cyber.fr/politique-de-confidentialite/" r
+                    el="privacy-policy">Politique de Confidentialité</a>; tagNa
+                    me=A; class=privacy-policy-link; href=https://maguen-cyber.
+                    fr/politique-de-confidentialite/; rel=privacy-policy}}
+[32;1mRawContentLength  : [0m46499
+[32;1mRelationLink      : [0m{}
+
+
+🧪 L'Alchimiste continue ses expériences...

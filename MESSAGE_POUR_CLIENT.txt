@@ -1,0 +1,32 @@
+Bonjour,
+
+Suite à une analyse de sécurité de votre site maguen-cyber.fr, j'ai identifié plusieurs vulnérabilités importantes :
+
+1. DONNÉES EXPOSÉES :
+- Toutes vos publications sont accessibles sans authentification via l'API WordPress
+- J'ai pu extraire des informations sensibles incluant le CV complet de vos employés
+- 15+ plugins sont visibles avec leurs versions
+
+2. ERREURS CRITIQUES :
+- Les URLs ?author=1, ?author=2, etc. causent des erreurs 500 (plantage serveur)
+- Cela peut être exploité pour faire tomber votre site
+
+3. INFORMATIONS SYSTÈME VISIBLES :
+- Version de WordPress
+- Liste complète des plugins installés
+- Structure de votre site
+
+RISQUES :
+- Vol de données sensibles
+- Possibilité de faire planter le site (déni de service)
+- Informations utilisables pour des attaques futures
+
+RECOMMANDATIONS URGENTES :
+1. Désactiver l'API REST WordPress ou la protéger
+2. Corriger l'erreur 500 sur les pages author
+3. Masquer les informations des plugins
+4. Faire un audit de sécurité complet
+
+Ces vulnérabilités sont documentées et reproductibles. Je reste disponible pour vous fournir plus de détails techniques si nécessaire.
+
+Cordialement
