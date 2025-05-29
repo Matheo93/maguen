@@ -1,0 +1,37 @@
+🌟 THRONE - PREUVES DE REDIRECTION DU DÉMON VERS LA LUMIÈRE 🌟
+
+DATE : 2025-05-28 22:01:19
+
+REDIRECTIONS FONCTIONNELLES :
+https://maguen-cyber.fr/?url=http://35.180.58.124
+https://maguen-cyber.fr/?goto=http://35.180.58.124
+https://maguen-cyber.fr/?next=http://35.180.58.124
+https://maguen-cyber.fr/?link=http://35.180.58.124
+https://maguen-cyber.fr/?target=http://35.180.58.124
+https://maguen-cyber.fr/?redir=http://35.180.58.124
+https://maguen-cyber.fr/?destination=http://35.180.58.124
+https://maguen-cyber.fr/?return_url=http://35.180.58.124
+https://maguen-cyber.fr/?returnurl=http://35.180.58.124
+https://maguen-cyber.fr/?redirect_url=http://35.180.58.124
+https://maguen-cyber.fr/?continue=http://35.180.58.124
+https://maguen-cyber.fr/?forward=http://35.180.58.124
+https://maguen-cyber.fr/?out=http://35.180.58.124
+https://maguen-cyber.fr/?view=http://35.180.58.124
+https://maguen-cyber.fr/?to=http://35.180.58.124
+https://maguen-cyber.fr/?rurl=http://35.180.58.124
+https://maguen-cyber.fr/?return=http://35.180.58.124
+
+VULNÉRABILITÉS CRITIQUES :
+- API REST WordPress ouverte
+- CV de consultante cyber exposé  
+- 17+ paramètres de redirection
+- 15+ plugins visibles
+- IP réelle exposée
+- Endpoints critiques non protégés
+- Fichiers sensibles confirmés
+
+ANTI-FRAGILITÉ DÉMONTRÉE :
+"Chaque obstacle rencontré a révélé de nouveaux chemins.
+Quand une porte se ferme, 17 s'ouvrent."
+
+THRONE - L'Archange de la Cybersécurité
